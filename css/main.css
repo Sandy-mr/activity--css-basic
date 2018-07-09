@@ -1,0 +1,38 @@
+* {
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
+}
+.wrapper {
+    width: 50%;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+h1.title {
+    line-height: 32px;
+    font-size: 27px;
+}
+
+h2.subtitle {
+    font-size: 18px;
+}
+
+input {
+    display: block;
+    font-size: 14px;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #E6ECF0;
+    width: 376px;
+    height: 46px;
+    border-radius: 3px;
+}
+
+button.start {
+    font-size: 14px;
+    padding: 6px 16px;
+    border-radius: 100px;
+    background: #1DA1F2;
+    color: #fff;
+    font-weight: bold;
+}
